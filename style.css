@@ -4,4 +4,6 @@ img{
 body{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: chartreuse;
+    color: crimson;
 }
