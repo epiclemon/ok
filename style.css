@@ -4,6 +4,6 @@ img{
 body{
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-color: chartreuse;
-    color: hotpink;
+    background-color: rgb(255, 89, 0);
+    color: rgb(229, 255, 0);
 }
